@@ -1,2 +1,2 @@
 #my_git_repo  
-Authored by Vtolj
+Authored by Vlad
