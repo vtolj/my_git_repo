@@ -1,7 +1,8 @@
  # Threat modeling ![TC1](https://i.ibb.co/MNGzWsY/tc1-logo.png) 
 ## Intro
-Is process of understanding system and potential threats againt it. It's based on identifying threats in order to develop mitigation.
-It's also a way to engineer and think through how to catch the threats before happend
+Is process of understanding system and potential threats againt it  
+It's based on identifying threats in order to develop mitigation   
+It's also a way to engineer and think through how to catch the threats before happend  
 Benefits for organisation: giving systematic and comprehensive approach to security
 ## Data flow diagram
 To understand DFD first we need to define few definition:
