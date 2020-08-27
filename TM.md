@@ -19,9 +19,9 @@ To understand DFD first we need to define few definition:
 
 Threat | Property | Definition
 ------ |  ------- | -----------
-S 	Spoofing identity | Authentication | Pretending to be someone other than yourself
-T 	Tampering with data 	| Integrity | Malicious modification of data on disk, network, memory or database
-R 	Repudiation | Non-repudiation | Denying performing an action without other parties having a way to prove otherwise
-I 	Information disclosure | Confidentiality | Exposing information to unauthorized entities
-D 	Denial of service | Availability | Exhausting resources needed to provide service
-E 	Elevation of privilege | Authorization | An unprivileged user gaining privileged access to systems
+**S** 	Spoofing identity | Authentication | Pretending to be someone other than yourself
+**T** 	Tampering with data 	| Integrity | Malicious modification of data on disk, network, memory or database
+**R** 	Repudiation | Non-repudiation | Denying performing an action without other parties having a way to prove otherwise
+**I** 	Information disclosure | Confidentiality | Exposing information to unauthorized entities
+**D** 	Denial of service | Availability | Exhausting resources needed to provide service
+**E** 	Elevation of privilege | Authorization | An unprivileged user gaining privileged access to systems
