@@ -18,7 +18,7 @@ To understand DFD first we need to define few definition:
 ![TC1](https://i.ibb.co/Mnbnz5Y/threat-modeling-v2-1.png)
 
 ## Stride method
-These method help us to think what could go wrong and what to do if something goes wrong
+This method help us to think what could go wrong and what to do if something goes wrong
 Threat | Property | Definition
 ------ |  ------- | -----------
 **S** 	Spoofing identity | Authentication | Pretending to be someone other than yourself
