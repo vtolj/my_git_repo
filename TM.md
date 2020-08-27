@@ -13,5 +13,6 @@ To understand DFD first we need to define few definition:
 - Risk – the potential for loss, damage or destruction of an asset as a result of the exploiting a vulnerability
 - Threat agent – someone who could do a harm to a system
 - Threat – anything that will exploit the vulnerability, intentional or accidentally and obtain damage or destroy assets
-- Vulnerability – A flaw in the system that could  help a threat agent to realize a threat
+- Vulnerability – A flaw in the system that could  help a threat agent to realize a threat  
+
 ![TC1](https://i.ibb.co/Mnbnz5Y/threat-modeling-v2-1.png)
