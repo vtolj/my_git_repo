@@ -16,3 +16,12 @@ To understand DFD first we need to define few definition:
 - Vulnerability – A flaw in the system that could  help a threat agent to realize a threat  
 
 ![TC1](https://i.ibb.co/Mnbnz5Y/threat-modeling-v2-1.png)
+
+Threat | Property | Definition
+------ |  ------- | -----------
+S 	Spoofing identity | Authentication | Pretending to be someone other than yourself
+T 	Tampering with data 	| Integrity | Malicious modification of data on disk, network, memory or database
+R 	Repudiation | Non-repudiation | Denying performing an action without other parties having a way to prove otherwise
+I 	Information disclosure | Confidentiality | Exposing information to unauthorized entities
+D 	Denial of service | Availability | Exhausting resources needed to provide service
+E 	Elevation of privilege | Authorization | An unprivileged user gaining privileged access to systems
